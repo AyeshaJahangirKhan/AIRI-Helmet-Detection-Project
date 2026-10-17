@@ -1,0 +1,11 @@
+Image,Detections,Lowest confidence,Review reason
+BikesHelmets183_png.rf.1f9ebed2be11011e589ec58d1def89c1.jpg,0,0.0,No detections
+BikesHelmets690_png.rf.82cdd08be3388e9ac5b4d508f4036c1d.jpg,0,0.0,No detections
+BikesHelmets214_png.rf.1d87985c9f70bdff315954906fd27b10.jpg,1,0.3257148861885071,Low confidence
+BikesHelmets46_png.rf.dadd6e511eac06877421dd220224bb11.jpg,1,0.5777820348739624,Check visually
+train360_jpg.rf.57afd42dbe2c4905755f1fcfb308c73b.jpg,1,0.6954095363616943,Check visually
+train572_jpg.rf.e2330b4c0d57f1b4a918acee2ebf5db6.jpg,1,0.7408043742179871,Check visually
+BikesHelmets158_png.rf.71cdb3536b840ccc2f0e44d1e5ce36e3.jpg,1,0.7499259114265442,Check visually
+train147_jpg.rf.d149be3d2280f0d73ba7ca93b5f66e15.jpg,1,0.8230788111686707,Check visually
+test37_jpg.rf.04195d3807dec2cd84c84ace5989848c.jpg,1,0.8603036999702454,Check visually
+train482_jpg.rf.124835a44f6895f58f0b95f5d8778b10.jpg,1,0.8986749053001404,Check visually

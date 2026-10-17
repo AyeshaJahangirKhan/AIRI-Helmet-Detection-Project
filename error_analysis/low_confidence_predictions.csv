@@ -1,0 +1,26 @@
+Image,Detections,Lowest confidence,Confidence scores
+BikesHelmets183_png.rf.1f9ebed2be11011e589ec58d1def89c1.jpg,0,,No detections
+BikesHelmets690_png.rf.82cdd08be3388e9ac5b4d508f4036c1d.jpg,0,,No detections
+BikesHelmets143_png.rf.caf0aacf12adfbfa16b20b8c3563a803.jpg,9,0.101,"0.791, 0.758, 0.649, 0.626, 0.605, 0.526, 0.450, 0.411, 0.101"
+train55_jpg.rf.49de0e03e5c48cc0ba2f64861b6f2d85.jpg,3,0.129,"0.859, 0.300, 0.129"
+train172_jpg.rf.94f0ed3ef1c7b8211874643168563192.jpg,4,0.135,"0.870, 0.614, 0.282, 0.135"
+test47_jpg.rf.135f45bbf540aba11476f4ab13c19532.jpg,2,0.183,"0.906, 0.183"
+BikesHelmets425_png.rf.fa3787994b86131edecb1298002e5d05.jpg,3,0.183,"0.860, 0.723, 0.183"
+val22_jpg.rf.ba900aedb59866c27e2090d2c705bfc3.jpg,3,0.266,"0.905, 0.772, 0.266"
+BikesHelmets214_png.rf.1d87985c9f70bdff315954906fd27b10.jpg,1,0.326,0.326
+test16_jpg.rf.d10e44bdf0099562590be3254b0d7f26.jpg,3,0.333,"0.909, 0.878, 0.333"
+BikesHelmets46_png.rf.dadd6e511eac06877421dd220224bb11.jpg,1,0.578,0.578
+train296_jpg.rf.46932ccc99bb0bc6ee53dfed085327c7.jpg,3,0.62,"0.830, 0.824, 0.620"
+test28_jpg.rf.5721290a682f2de37d19ac2d21eb68de.jpg,2,0.64,"0.897, 0.640"
+train368_jpg.rf.50fde136391e8cc92c42bf1720831503.jpg,4,0.641,"0.750, 0.713, 0.646, 0.641"
+train360_jpg.rf.57afd42dbe2c4905755f1fcfb308c73b.jpg,1,0.695,0.695
+train609_jpg.rf.addd86e0259f31c9024943a265b86dd1.jpg,2,0.733,"0.794, 0.733"
+train572_jpg.rf.e2330b4c0d57f1b4a918acee2ebf5db6.jpg,1,0.741,0.741
+BikesHelmets158_png.rf.71cdb3536b840ccc2f0e44d1e5ce36e3.jpg,1,0.75,0.750
+BikesHelmets746_png.rf.2c1f249429743284635e7469d5917206.jpg,3,0.772,"0.859, 0.835, 0.772"
+BikesHelmets102_png.rf.b771e83db4052e5e48900f1d9f4ee68e.jpg,2,0.807,"0.853, 0.807"
+train147_jpg.rf.d149be3d2280f0d73ba7ca93b5f66e15.jpg,1,0.823,0.823
+val67_jpg.rf.3c3d0a00ea20e06bd29018fab5e492aa.jpg,2,0.827,"0.870, 0.827"
+test37_jpg.rf.04195d3807dec2cd84c84ace5989848c.jpg,1,0.86,0.860
+BikesHelmets367_png.rf.28ba774989591d521958acedb1b16f60.jpg,2,0.878,"0.916, 0.878"
+train482_jpg.rf.124835a44f6895f58f0b95f5d8778b10.jpg,1,0.899,0.899
